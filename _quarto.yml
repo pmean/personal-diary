@@ -2,14 +2,10 @@ project:
   type: website
 
 website:
-  title: "test-blog"
+  title: "Personal diary of Steve Simon"
   navbar:
     right:
       - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
     theme:

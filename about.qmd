@@ -1,19 +1,23 @@
 ---
-title: "About"
+title: "About Steve Simon"
 image: profile.jpg
 about:
-  template: jolla
+  template: solana
+  image: RedSquare.jpg
   links:
     - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+      text: PMean website
+      href: https://pmean.com
     - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      text: Jump Start bookLinkedIn
+      href: https://pmean.com/jump-start
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/pmean
 ---
+
+This is a personal blog. Actually, more of a diary. I want to share a few details about what I am up to. Not that I lead the most interesting life, but I do have my moments. In any case, the diary is more for me to reflect on the day. It is also fun to look back on old memories.
+
+I used to have a similar site several decades ago. If I can find those pages, i will repost them here.
 
 About this blog
