@@ -1,0 +1,9 @@
+---
+title: "Captain's log. Star Date 2025-09-05"
+date: "2025-09-07"
+categories:
+- movies
+image: "hamilton-poster.jpg"
+---
+
+Our movie group went to see a matinee showing of Hamilton. This is a direct recording of the Broadway musical, with the original cast members. If you are unfamiliar with "Hamilton," it is a retelling of the life of Alexander Hamilton, one of our founding fathers. The intriguing feature of this musical is the use of rap and hip-hop, mixed in with the more traditional Broadway musical style.
