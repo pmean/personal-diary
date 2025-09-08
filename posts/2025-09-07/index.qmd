@@ -1,5 +1,5 @@
 ---
-title: "Captain's Log. Start Date 2025-09-07"
+title: "Captain's Log. Star Date 2025-09-07"
 author: "Steve Simon"
 date: "2025-09-07"
 categories: 

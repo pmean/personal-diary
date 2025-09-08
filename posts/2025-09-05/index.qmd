@@ -1,8 +1,8 @@
 ---
-title: "Captain's log. Star Date 2025-09-05"
-date: "2025-09-07"
+title: "Captain's Log. Star Date 2025-09-05"
+date: "2025-09-05"
 categories:
-- movies
+- Movies
 image: "hamilton-poster.jpg"
 ---
 
