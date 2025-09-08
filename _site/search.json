@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
     "objectID": "posts/2025-09-07/index.html",
     "href": "posts/2025-09-07/index.html",
     "title": "Captain’s Log. Start Date 2025-09-07",
     "section": "",
-    "text": "I got up extra early and headed out for the 7:30am start of the Plaza 10K. The Plaza 10K is one of my favorite runs. It is a very scenic run that starts near the Xian warrior statue on Ward Parkway."
+    "text": "I got up extra early and headed out for the 7:30am start of the Plaza 10K. The Plaza 10K is one of my favorite runs. It is a very scenic run. It starts near the Xian warrior statue on Ward Parkway. You head west along Ward Parkway almost to the state line, turning around right before Ward Parkway heads up a steep hill. Then you head back to the Plaza, cutting over to 47th Street which becomes Emmanuel Cleaver Boulevard. You run right past the shuttle cock sculptures at the Nelson Atkins museum and the Gates statue (Gates Barbecue, not Bill Gates). Keep going until just before the Bruce R. Watkins highway and come back along Brush Creek Parkway. You pass the gorgeous Stowers Institute and make a dog leg into the UMKC campus before returning to the Xian Warrior statue again at the finish line.\nHere is a map of the race route.\n![](sportractive.jpg “Map of the Plaza 10K race route”){width=80%}\nI am quite a bit out of shape and was slower than many of the walkers. I did run the whole way. Running is different than walking in that one foot leaves the ground before the other foot hits.\nI did maintain the same pace throughout, roughly a 16 minute mile. My final time was 1:43:46. That placed me at 1,669 out of 1,720 runners, Even in my age group (Male 65-69) I was slow finishing 17 out of 18. That’s okay. I was quite a bit sore afterwards. I felt it mostly in my hips, but my calf and thigh muscles also were quite weary.\nHere’s a photo of me at the finish line. I started near the back of the pack, which explains the discrepancy between the clock time and my official time.\n![](race-day-photo.jpg “Steve Simon crossing the finish line at the 2025 Plaza 10K”){width=80%}\nI weighed myself the next morning and was below 280 pounds, which I had not seen in a long time. I still have a long way to go towards my target weight of 200, but as they say, the journey of a thousand miles starts with a single step. Or in my case, a 10 kilometer run."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Steve Simon",
     "section": "",
-    "text": "About this blog"
+    "text": "This is a personal blog. Actually, more of a diary. I want to share a few details about what I am up to. Not that I lead the most interesting life, but I do have my moments. In any case, the diary is more for me to reflect on the day. It is also fun to look back on old memories.\nI used to have a similar site several decades ago. If I can find those pages, i will repost them here.\nAbout this blog"
   },
   {
     "objectID": "posts/2025-09-05/index.html",
@@ -26,12 +19,5 @@
     "title": "Captain’s log. Star Date 2025-09-05",
     "section": "",
     "text": "Our movie group went to see a matinee showing of Hamilton. This is a direct recording of the Broadway musical, with the original cast members. If you are unfamiliar with “Hamilton,” it is a retelling of the life of Alexander Hamilton, one of our founding fathers. The intriguing feature of this musical is the use of rap and hip-hop, mixed in with the more traditional Broadway musical style."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   }
 ]

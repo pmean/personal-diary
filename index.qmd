@@ -1,5 +1,5 @@
 ---
-title: "test-blog"
+title: "Personal diary of Steve Simon, last updated 2025-09-07"
 listing:
   contents: posts
   sort: "date desc"
@@ -11,4 +11,9 @@ page-layout: full
 title-block-banner: true
 ---
 
-## This is a test.
+## This is a personal diary for Steve Simon.
+
+I have a [blog][sim1] for work related posts and an [early draft][sim2] of a book I am writing. Here, however, I want to share a few personal posts. It's more of a diary than a blog.
+
+[sim1]: http://pmean.com
+[sim2]: http://pmean.com/jump-start/
