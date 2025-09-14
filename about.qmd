@@ -5,19 +5,10 @@ about:
   template: solana
   image: RedSquare.jpg
   links:
-    - icon: twitter
-      text: PMean website
+    - text: PMean website
       href: https://pmean.com
-    - icon: linkedin
-      text: Jump Start bookLinkedIn
-      href: https://pmean.com/jump-start
-    - icon: github
-      text: Github
-      href: https://github.com/pmean
 ---
 
-This is a personal blog. Actually, more of a diary. I want to share a few details about what I am up to. Not that I lead the most interesting life, but I do have my moments. In any case, the diary is more for me to reflect on the day. It is also fun to look back on old memories.
+This is a personal blog. Actually, more of a diary. I want to share a few details about what I am up to. Not that I lead the most interesting life, but I do have my moments. In any case, the diary is more for me to reflect on the day. I'll comment on movies, television shows, etc. that I am watching and offer a rating on a ten point scale. It is also fun to look back on old memories, so I will re-read some of my old posts a few months or a few years down the road.
 
-I used to have a similar site several decades ago. If I can find those pages, i will repost them here.
-
-About this blog
+I used to have a similar site several decades ago. If I can find those pages, I will repost them here.
