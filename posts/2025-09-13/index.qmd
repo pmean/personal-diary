@@ -6,96 +6,366 @@ categories:
 image: "cinema-movie.jpg"
 ---
 
--   Aug 2025: [9 to 5](https://en.wikipedia.org/wiki/9_to_5_(film))
--   Jul 2025: [Yentl](https://en.wikipedia.org/wiki/Yentl_(film))
--   Jun 2025: [Almost Famous](https://en.wikipedia.org/wiki/Almost_Famous)
--   May 2025: [Mrs. Doubtfire](https://en.wikipedia.org/wiki/Mrs._Doubtfire)
--   Apr 2025: [Big](https://en.wikipedia.org/wiki/Big_(film))
--   Mar 2025: [Hoosiers](https://en.wikipedia.org/wiki/Hoosiers_(film))
--   Feb 2025: [The Way We Were](https://en.wikipedia.org/wiki/The_Way_We_Were)
--   Jan 2025: [Play It Again Sam](https://en.wikipedia.org/wiki/Play_It_Again,_Sam_(film))
+## 2025
 
+The year is not done yet. Among the live movies, "The Life of Chuck" is my favorite. It's based on a Stephen King short story, but does not have the creepiness or gore that you might expect. Instead, it is a sweet and somewhat sad movie. The first third of the movie is somewhat confusing, especially if you did not read the story first.
 
--   Dec 2024: Cancelled
--   Nov 2024: [Casablanca](https://en.wikipedia.org/wiki/Casablanca_(film))
--   Oct 2024: [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future)
--   Sep 2024: [Ferris Bueller’s Day Off](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off)
--   Aug 2024: [Animal House](https://en.wikipedia.org/wiki/Animal_House)
--   Jul 2024: [Suspect](https://en.wikipedia.org/wiki/Suspect_(1987_film))
--   Jun 2024: [Father of the Bride, 1991 version](https://en.wikipedia.org/wiki/Father_of_the_Bride_(1991_film))
--   May 2024: [Mermaids](https://en.wikipedia.org/wiki/Mermaids_(1990_film))
--   Apr 2024: [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film))
--   Mar 2024: [Waking Ned Devine](https://en.wikipedia.org/wiki/Waking_Ned)
--   Feb 2024: [The Wedding Singer](https://en.wikipedia.org/wiki/The_Wedding_Singer)
--   Jan 2024: [The Horse Whisperer](https://en.wikipedia.org/wiki/The_Horse_Whisperer_(film))
+For the virtual movie group, "Play It Again, Sam" is one of my favorites of all time. I saw it as a teenager and related very closely to the Woody Allen character who struck out repeatedly in the dating scene. The others in the movie group did not like it as well as I did, which is okay.
 
--   Dec 2023: [Going My Way](https://en.wikipedia.org/wiki/Going_My_Way)
--   Nov 2023: [Before Sunset](https://en.wikipedia.org/wiki/Before_Sunset), [Before Midnight](https://en.wikipedia.org/wiki/Before_Midnight)
--   Oct 2023: [Before Sunrise](https://en.wikipedia.org/wiki/Before_Sunrise)
--   Sep 2023: [Peggy Sue Got Married](https://en.wikipedia.org/wiki/Peggy_Sue_Got_Married)
--   Aug 2023: [Star Trek IV. The Voyage Home](https://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home)
--   Jul 2023: [Big Sonia](https://www.imdb.com/title/tt3531176/)
--   Jun 2023: [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark)
--   May 2023: [A Beautiful Mind](https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film))
--   Apr 2023: [The Natural](https://en.wikipedia.org/wiki/The_Natural_(film))
--   Mar 2023: [My Big Fat Greek Wedding](https://en.wikipedia.org/wiki/My_Big_Fat_Greek_Wedding)
--   Feb 2023: [The Philadelphia Story](https://en.wikipedia.org/wiki/The_Philadelphia_Story_(film))
--   Jan 2023: [Do the Right Thing](https://en.wikipedia.org/wiki/Do_the_Right_Thing)
+-   Live movie group
+    -   Sep 2025: [Hamilton](https://en.wikipedia.org/wiki/Hamilton_(2020_film))
+    -   Aug 2025: [Sorry, Baby](https://en.wikipedia.org/wiki/Sorry,_Baby_(2025_film))
+    -   Jul 2025: [The Life of Chuck](https://en.wikipedia.org/wiki/The_Life_of_Chuck)
+    -   Jun 2025: [Jane Austen Wrecked My Life](https://en.wikipedia.org/wiki/Jane_Austen_Wrecked_My_Life)
+    -   May 2025: [That They May Face the Rising Sun](https://en.wikipedia.org/wiki/That_They_May_Face_the_Rising_Sun_(film))
+    -   Apr 2025: [The Penguin Lessons](https://en.wikipedia.org/wiki/The_Penguin_Lessons)
+    -   Mar 2025: [The Rule Breakers](https://en.wikipedia.org/wiki/Rule_Breakers_(film))
+    -   Feb 2025: [September 5](https://en.wikipedia.org/wiki/September_5_(film))
+    -   Jan 2025: [A Complete Unknown](https://en.wikipedia.org/wiki/A_Complete_Unknown)
 
--   Dec 2022: [Miracle on 34th Street](https://en.wikipedia.org/wiki/Miracle_on_34th_Street)
--   Nov 2022: [My Cousin Vinnie](https://en.wikipedia.org/wiki/My_Cousin_Vinny)
--   Oct 2022: [Patton](https://en.wikipedia.org/wiki/Patton_(film))
--   Sep 2022: [Amadeus](https://en.wikipedia.org/wiki/Amadeus_(film))
--   Sep 2022: [Bull Durham](https://en.wikipedia.org/wiki/Bull_Durham)
--   Aug 2022: [The Birdcage](https://en.wikipedia.org/wiki/The_Birdcage)
--   Aug 2022: Canceled
--   Jul 2022: [Honkytonk Man](https://en.wikipedia.org/wiki/Honkytonk_Man)
--   Jul 2022: [Tootsie](https://en.wikipedia.org/wiki/Tootsie)
--   Jun 2022: [The Secret of Roan Inish](https://en.wikipedia.org/wiki/The_Secret_of_Roan_Inish)
--   Jun 2022: [42](https://en.wikipedia.org/wiki/42_(film))
--   Jun 2022: [Juno](https://en.wikipedia.org/wiki/Juno_(film))
--   May 2022: [All of Me](https://en.wikipedia.org/wiki/All_of_Me_(1984_film))
--   Apr 2022: [Field of Dreams](https://en.wikipedia.org/wiki/Field_of_Dreams)
--   Mar 2022: [The Commitments](https://en.wikipedia.org/wiki/The_Commitments_(film))
--   Mar 2022: [Monty Python and the Holy Grail](https://en.wikipedia.org/wiki/The_Commitments_(film))
--   Feb 2022: [Guess Who’s Coming to Dinner](https://en.wikipedia.org/wiki/Guess_Who%27s_Coming_to_Dinner)
--   Feb 2022: [Sleepless in Seattle](https://en.wikipedia.org/wiki/Sleepless_in_Seattle)
--   Jan 2022: [Witness](https://en.wikipedia.org/wiki/Witness_(1985_film))
--   Jan 2022: [Love Actually](https://en.wikipedia.org/wiki/Love_Actually)
+-   Virtual movie group
+    -   Aug 2025: [9 to 5](https://en.wikipedia.org/wiki/9_to_5_(film))
+    -   Jul 2025: [Yentl](https://en.wikipedia.org/wiki/Yentl_(film))
+    -   Jun 2025: [Almost Famous](https://en.wikipedia.org/wiki/Almost_Famous)
+    -   May 2025: [Mrs. Doubtfire](https://en.wikipedia.org/wiki/Mrs._Doubtfire)
+    -   Apr 2025: [Big](https://en.wikipedia.org/wiki/Big_(film))
+    -   Mar 2025: [Hoosiers](https://en.wikipedia.org/wiki/Hoosiers_(film))
+    -   Feb 2025: [The Way We Were](https://en.wikipedia.org/wiki/The_Way_We_Were)
+    -   Jan 2025: [Play It Again Sam](https://en.wikipedia.org/wiki/Play_It_Again,_Sam_(film))
 
--   Dec 2021: [White Christmas](https://en.wikipedia.org/wiki/White_Christmas_(film))
--   Dec 2021: [O Brother Where Art Thou?](https://en.wikipedia.org/wiki/O_Brother,_Where_Art_Thou%3F)
--   Nov 2021: [Planes, Trains, and Automobiles](https://en.wikipedia.org/wiki/Planes,_Trains_and_Automobiles)
--   Nov 2021: [Cinema Paradiso](https://en.wikipedia.org/wiki/Cinema_Paradiso)
--   Oct 2021: [Young Frankenstein](https://en.wikipedia.org/wiki/Young_Frankenstein)
--   Oct 2021: [Breaking Away](https://en.wikipedia.org/wiki/Breaking_Away)
--   Sep 2021: [Notting Hill](https://en.wikipedia.org/wiki/Notting_Hill_(film))
--   Sep 2021: [A League of Their Own](https://en.wikipedia.org/wiki/A_League_of_Their_Own)
--   Aug 2021: [Father of the Bride, 1950 version](https://en.wikipedia.org/wiki/Father_of_the_Bride_(1950_film))
--   Aug 2021: [Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters)
--   Jul 2021: [The Big Sleep](https://en.wikipedia.org/wiki/The_Big_Sleep_(1946_film))
--   Jul 2021: [The Breakfast Club](https://en.wikipedia.org/wiki/The_Breakfast_Club)
--   Jun 2021: [Searching for Bobby Fisher](https://en.wikipedia.org/wiki/Searching_for_Bobby_Fischer)
--   Jun 2021: [High Fidelity](https://en.wikipedia.org/wiki/High_Fidelity_(film))
--   May 2021: [Hairspray, 2007 version](https://en.wikipedia.org/wiki/Hairspray_(2007_film))
--   May 2021: [On Golden Pond](https://en.wikipedia.org/wiki/On_Golden_Pond_(1981_film))
--   Apr 2021: [Election](https://en.wikipedia.org/wiki/Election_(1999_film))
--   Apr 2021: [Bird](https://en.wikipedia.org/wiki/Bird_(1988_film))
--   Mar 2021: [Pillow Talk](https://en.wikipedia.org/wiki/Pillow_Talk)
--   Mar 2021: [The Sting](https://en.wikipedia.org/wiki/The_Sting)
--   Feb 2021: [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_(film))
--   Feb 2021: [Rear Window](https://en.wikipedia.org/wiki/Rear_Window)
--   Jan 2021: [Airplane](https://en.wikipedia.org/wiki/Airplane!)
--   Jan 2021: [Joyeaux Noel](https://en.wikipedia.org/wiki/Joyeux_No%C3%ABl)
+## 2024
 
--   Dec 2020: [A Christmas Story](https://en.wikipedia.org/wiki/A_Christmas_Story)
--   Nov 2020: [Charade](https://en.wikipedia.org/wiki/Charade_(1963_film))
--   Oct 2020: [The African Queen](https://en.wikipedia.org/wiki/The_African_Queen_(film))
--   Sep 2020: [The Blues Brothers](https://en.wikipedia.org/wiki/The_Blues_Brothers_(film))
--   Aug 2020: [When Harry Met Sally](https://en.wikipedia.org/wiki/When_Harry_Met_Sally...)
--   Jul 2020: [Desk Set](https://en.wikipedia.org/wiki/Desk_Set)
--   Jun 2020: [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film))
--   May 2020: [North By Northwest](https://en.wikipedia.org/wiki/North_by_Northwest)
--   Apr 2020: [Monty Python's Life of Brian](https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian)
+The big movie of the year was "Wicked", but a sleeper that was actually quite good was "American Fiction". Two virtual movie group choices which have reached cult status are "Back to the Future" and "Ferris Bueller's Day Off".
+
+-   Live movie group
+    -   Dec 2024: [Wicked](https://en.wikipedia.org/wiki/Wicked_(2024_film))
+    -   Nov 2024: [Here](https://en.wikipedia.org/wiki/Here_(2024_film))
+    -   Oct 2024: [My Old Ass](https://en.wikipedia.org/wiki/My_Old_Ass)
+    -   Sep 2024: [My Penguin Friend](https://en.wikipedia.org/wiki/My_Penguin_Friend)
+    -   Aug 2024: [Fly Me to the Moon](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon_(2024_film))
+    -   Jul 2024: [Thelma](https://en.wikipedia.org/wiki/Thelma_(2024_film))
+    -   Jun 2024: [Ezra](https://en.wikipedia.org/wiki/Ezra_(2023_film))
+    -   May 2024: [The Fall Guy](https://en.wikipedia.org/wiki/The_Fall_Guy_(2024_film))
+    -   Apr 2024: [Arthur the King](https://en.wikipedia.org/wiki/Arthur_the_King)
+    -   Mar 2024: [Bob Marley. One Love](https://en.wikipedia.org/wiki/Bob_Marley:_One_Love)
+    -   Feb 2024: [American Fiction](https://en.wikipedia.org/wiki/American_Fiction_(film))
+    -   Jan 2024: [Maestro](https://en.wikipedia.org/wiki/Maestro_(2023_film))
+
+-   Virtual movie group
+    -   Dec 2024: Cancelled
+    -   Nov 2024: [Casablanca](https://en.wikipedia.org/wiki/Casablanca_(film))
+    -   Oct 2024: [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future)
+    -   Sep 2024: [Ferris Bueller’s Day Off](https://en.wikipedia.org/wiki/Ferris_Bueller%27s_Day_Off)
+    -   Aug 2024: [Animal House](https://en.wikipedia.org/wiki/Animal_House)
+    -   Jul 2024: [Suspect](https://en.wikipedia.org/wiki/Suspect_(1987_film))
+    -   Jun 2024: [Father of the Bride, 1991 version](https://en.wikipedia.org/wiki/Father_of_the_Bride_(1991_film))
+    -   May 2024: [Mermaids](https://en.wikipedia.org/wiki/Mermaids_(1990_film))
+    -   Apr 2024: [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film))
+    -   Mar 2024: [Waking Ned Devine](https://en.wikipedia.org/wiki/Waking_Ned)
+    -   Feb 2024: [The Wedding Singer](https://en.wikipedia.org/wiki/The_Wedding_Singer)
+    -   Jan 2024: [The Horse Whisperer](https://en.wikipedia.org/wiki/The_Horse_Whisperer_(film))
+
+## 2023
+
+A Christmas film that rivals so many of the others, "The Holdovers", is the best among some very good live films. By popular demand for the virtual movie group, we rewatched something that we had seen several years before in the live movie group, "Big Sonia". This is a film that is hard to find, but well worth watching if you can find it.
+
+-   Live movie group
+    -   Dec 2023: [The Holdovers](https://en.wikipedia.org/wiki/The_Holdovers)
+    -   Nov 2023: [Killers of the Flower Moon](https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon_(film))
+    -   Oct 2023: [Haunting in Venice](https://en.wikipedia.org/wiki/A_Haunting_in_Venice)
+    -   Sep 2023: [Golda](https://en.wikipedia.org/wiki/A_Haunting_in_Venice)
+    -   Aug 2023: [Oppenheimer](https://en.wikipedia.org/wiki/Oppenheimer_(film))
+    -   Jul 2023: [Indiana Jones and the Dial of Destiny](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Dial_of_Destiny)
+    -   Jun 2023: [You Hurt My Feelings](https://en.wikipedia.org/wiki/You_Hurt_My_Feelings_(2023_film))
+    -   May 2023: [Are You There God? It’s Me, Margaret](https://en.wikipedia.org/wiki/Are_You_There_God%3F_It%27s_Me,_Margaret._(film))
+    -   Apr 2023: [Paint](https://en.wikipedia.org/wiki/Paint_(2023_film))
+    -   Mar 2023: [Living](https://en.wikipedia.org/wiki/Living_(2022_film))
+    -   Feb 2023: [80 for Brady](https://en.wikipedia.org/wiki/80_for_Brady)
+    -   Jan 2023: [A Man Called Otto](https://en.wikipedia.org/wiki/A_Man_Called_Otto)
+
+-   Virtual movie group
+    -   Dec 2023: [Going My Way](https://en.wikipedia.org/wiki/Going_My_Way)
+    -   Nov 2023: [Before Sunset](https://en.wikipedia.org/wiki/Before_Sunset), [Before Midnight](https://en.wikipedia.org/wiki/Before_Midnight)
+    -   Oct 2023: [Before Sunrise](https://en.wikipedia.org/wiki/Before_Sunrise)
+    -   Sep 2023: [Peggy Sue Got Married](https://en.wikipedia.org/wiki/Peggy_Sue_Got_Married)
+    -   Aug 2023: [Star Trek IV. The Voyage Home](https://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home)
+    -   Jul 2023: [Big Sonia](https://www.imdb.com/title/tt3531176/)
+    -   Jun 2023: [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark)
+    -   May 2023: [A Beautiful Mind](https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film))
+    -   Apr 2023: [The Natural](https://en.wikipedia.org/wiki/The_Natural_(film))
+    -   Mar 2023: [My Big Fat Greek Wedding](https://en.wikipedia.org/wiki/My_Big_Fat_Greek_Wedding)
+    -   Feb 2023: [The Philadelphia Story](https://en.wikipedia.org/wiki/The_Philadelphia_Story_(film))
+    -   Jan 2023: [Do the Right Thing](https://en.wikipedia.org/wiki/Do_the_Right_Thing)
+
+## 2022
+
+After a 19 month gap, we returned to watching live movies. It was nice to watch the big screen, and see everyone face-to-face again. Among the virtual movie group choices, "All of Me" stands out. Steve Martin plays a role where he has to physically act as a woman inhabiting inside a man's body, and his physical movements and gestures add greatly to the humor.
+
+-   Live movie group
+    -   Dec 2022: [The Fabelmans](https://en.wikipedia.org/wiki/The_Fabelmans)
+    -   Nov 2022: [She Said](https://en.wikipedia.org/wiki/She_Said_(film))
+    -   Oct 2022: [Ticket to Paradise](https://en.wikipedia.org/wiki/Ticket_to_Paradise_(2022_film))
+
+-   Virtual movie group
+    -   Dec 2022: [Miracle on 34th Street](https://en.wikipedia.org/wiki/Miracle_on_34th_Street)
+    -   Nov 2022: [My Cousin Vinnie](https://en.wikipedia.org/wiki/My_Cousin_Vinny)
+    -   Oct 2022: [Patton](https://en.wikipedia.org/wiki/Patton_(film))
+    -   Sep 2022: [Amadeus](https://en.wikipedia.org/wiki/Amadeus_(film))
+    -   Sep 2022: [Bull Durham](https://en.wikipedia.org/wiki/Bull_Durham)
+    -   Aug 2022: [The Birdcage](https://en.wikipedia.org/wiki/The_Birdcage)
+    -   Aug 2022: Canceled
+    -   Jul 2022: [Honkytonk Man](https://en.wikipedia.org/wiki/Honkytonk_Man)
+    -   Jul 2022: [Tootsie](https://en.wikipedia.org/wiki/Tootsie)
+    -   Jun 2022: [The Secret of Roan Inish](https://en.wikipedia.org/wiki/The_Secret_of_Roan_Inish)
+    -   Jun 2022: [42](https://en.wikipedia.org/wiki/42_(film))
+    -   Jun 2022: [Juno](https://en.wikipedia.org/wiki/Juno_(film))
+    -   May 2022: [All of Me](https://en.wikipedia.org/wiki/All_of_Me_(1984_film))
+    -   Apr 2022: [Field of Dreams](https://en.wikipedia.org/wiki/Field_of_Dreams)
+    -   Mar 2022: [The Commitments](https://en.wikipedia.org/wiki/The_Commitments_(film))
+    -   Mar 2022: [Monty Python and the Holy Grail](https://en.wikipedia.org/wiki/The_Commitments_(film))
+    -   Feb 2022: [Guess Who’s Coming to Dinner](https://en.wikipedia.org/wiki/Guess_Who%27s_Coming_to_Dinner)
+    -   Feb 2022: [Sleepless in Seattle](https://en.wikipedia.org/wiki/Sleepless_in_Seattle)
+    -   Jan 2022: [Witness](https://en.wikipedia.org/wiki/Witness_(1985_film))
+    -   Jan 2022: [Love Actually](https://en.wikipedia.org/wiki/Love_Actually)
+
+## 2021
+
+In January, still in the depths of Covid isolation, the movie group members asked if we could meet twice a month. There certainly are enough movies out there to do this. My favorite film by far among the 24 we saw in 2021 is "Breaking Away". Many others might list "The Princess Bride" as their favorite film of all time.
+
+-   Virtual movie group
+    -   Dec 2021: [White Christmas](https://en.wikipedia.org/wiki/White_Christmas_(film))
+    -   Dec 2021: [O Brother Where Art Thou?](https://en.wikipedia.org/wiki/O_Brother,_Where_Art_Thou%3F)
+    -   Nov 2021: [Planes, Trains, and Automobiles](https://en.wikipedia.org/wiki/Planes,_Trains_and_Automobiles)
+    -   Nov 2021: [Cinema Paradiso](https://en.wikipedia.org/wiki/Cinema_Paradiso)
+    -   Oct 2021: [Young Frankenstein](https://en.wikipedia.org/wiki/Young_Frankenstein)
+    -   Oct 2021: [Breaking Away](https://en.wikipedia.org/wiki/Breaking_Away)
+    -   Sep 2021: [Notting Hill](https://en.wikipedia.org/wiki/Notting_Hill_(film))
+    -   Sep 2021: [A League of Their Own](https://en.wikipedia.org/wiki/A_League_of_Their_Own)
+    -   Aug 2021: [Father of the Bride, 1950 version](https://en.wikipedia.org/wiki/Father_of_the_Bride_(1950_film))
+    -   Aug 2021: [Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters)
+    -   Jul 2021: [The Big Sleep](https://en.wikipedia.org/wiki/The_Big_Sleep_(1946_film))
+    -   Jul 2021: [The Breakfast Club](https://en.wikipedia.org/wiki/The_Breakfast_Club)
+    -   Jun 2021: [Searching for Bobby Fisher](https://en.wikipedia.org/wiki/Searching_for_Bobby_Fischer)
+    -   Jun 2021: [High Fidelity](https://en.wikipedia.org/wiki/High_Fidelity_(film))
+    -   May 2021: [Hairspray, 2007 version](https://en.wikipedia.org/wiki/Hairspray_(2007_film))
+    -   May 2021: [On Golden Pond](https://en.wikipedia.org/wiki/On_Golden_Pond_(1981_film))
+    -   Apr 2021: [Election](https://en.wikipedia.org/wiki/Election_(1999_film))
+    -   Apr 2021: [Bird](https://en.wikipedia.org/wiki/Bird_(1988_film))
+    -   Mar 2021: [Pillow Talk](https://en.wikipedia.org/wiki/Pillow_Talk)
+    -   Mar 2021: [The Sting](https://en.wikipedia.org/wiki/The_Sting)
+    -   Feb 2021: [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_(film))
+    -   Feb 2021: [Rear Window](https://en.wikipedia.org/wiki/Rear_Window)
+    -   Jan 2021: [Airplane](https://en.wikipedia.org/wiki/Airplane!)
+    -   Jan 2021: [Joyeaux Noel](https://en.wikipedia.org/wiki/Joyeux_No%C3%ABl)
+
+## 2020
+
+In March 2020, the Covid crisis had gotten serious enough to cancel the live movie group. We would not restart again until late in 2022. We switched to a virtual movie format in April. Several people in the group had trouble at first with getting Zoom to work, but after a few months, everything went smoothly.
+
+-   Live movie group
+    -   Mar 2020 through Sep 2022: Cancelled
+    -   Feb 2020: [Downhill](https://en.wikipedia.org/wiki/Downhill_(2020_film))
+    -   Jan 2020: [Just Mercy](https://en.wikipedia.org/wiki/Just_Mercy)
+
+-   Virtual movie group
+    -   Dec 2020: [A Christmas Story](https://en.wikipedia.org/wiki/A_Christmas_Story)
+    -   Nov 2020: [Charade](https://en.wikipedia.org/wiki/Charade_(1963_film))
+    -   Oct 2020: [The African Queen](https://en.wikipedia.org/wiki/The_African_Queen_(film))
+    -   Sep 2020: [The Blues Brothers](https://en.wikipedia.org/wiki/The_Blues_Brothers_(film))
+    -   Aug 2020: [When Harry Met Sally](https://en.wikipedia.org/wiki/When_Harry_Met_Sally...)
+    -   Jul 2020: [Desk Set](https://en.wikipedia.org/wiki/Desk_Set)
+    -   Jun 2020: [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film))
+    -   May 2020: [North By Northwest](https://en.wikipedia.org/wiki/North_by_Northwest)
+    -   Apr 2020: [Monty Python's Life of Brian](https://en.wikipedia.org/wiki/Monty_Python%27s_Life_of_Brian)
+
+## 2019
+
+-   Live movie group
+    -   Dec 2019: [Dark Waters](https://en.wikipedia.org/wiki/Dark_Waters_(2019_film))
+    -   Nov 2019: [Midway](https://en.wikipedia.org/wiki/Midway_(2019_film))
+    -   Oct 2019: [Judy](https://en.wikipedia.org/wiki/Judy_(film))
+    -   Sep 2019: [The Goldfinch](https://en.wikipedia.org/wiki/The_Goldfinch_(film))
+    -   Aug 2019: [The Farewell](https://en.wikipedia.org/wiki/The_Farewell_(2019_film))
+    -   Jul 2019: [Yesterday](https://en.wikipedia.org/wiki/Yesterday_(2019_film))
+    -   Jun 2019: [Late Night](https://en.wikipedia.org/wiki/Late_Night_(film))
+    -   May 2019: [Long Shot](https://en.wikipedia.org/wiki/Long_Shot_(2019_film))
+    -   Apr 2019: [The Best of Enemies](https://en.wikipedia.org/wiki/The_Best_of_Enemies_(2019_film))
+    -   Mar 2019: [Apollo 11](https://en.wikipedia.org/wiki/Apollo_11_(2019_film))
+    -   Feb 2019: Canceled due to snow
+    -   Jan 2019: [On the Basis of Sex](https://en.wikipedia.org/wiki/On_the_Basis_of_Sex)
+
+## 2018
+
+-   Live movie group
+    -   Dec 2018: [The Mule](https://en.wikipedia.org/wiki/The_Mule_(2018_film))
+    -   Nov 2018: [Beautiful Boy](https://en.wikipedia.org/wiki/Beautiful_Boy_(2018_film))
+    -   Oct 2018: [A Star is Born, 2018 version](https://en.wikipedia.org/wiki/A_Star_Is_Born_(2018_film))
+    -   Sep 2018: Canceled because of too many conflicts
+    -   Aug 2018: [BlacKkKlansman](https://en.wikipedia.org/wiki/BlacKkKlansman)
+    -   Jul 2018: [Three Identical Strangers](https://en.wikipedia.org/wiki/Three_Identical_Strangers)
+    -   Jun 2018: [Ocean’s 8](https://en.wikipedia.org/wiki/Ocean%27s_8)
+    -   May 2018: [Overboard](https://en.wikipedia.org/wiki/Overboard_(2018_film))
+    -   Apr 2018: [Finding Your Feet](https://en.wikipedia.org/wiki/Finding_Your_Feet)
+    -   Mar 2018: [A Wrinkle in Time](https://en.wikipedia.org/wiki/A_Wrinkle_in_Time_(2018_film))
+    -   Feb 2018: [The 15:17 to Paris](https://en.wikipedia.org/wiki/The_15:17_to_Paris)
+    -   Jan 2018: [The Post](https://en.wikipedia.org/wiki/The_Post_(film))
+
+## 2017
+
+-   Live movie group
+    -   Dec 2017: [Big Sonia](https://www.imdb.com/title/tt3531176/)
+    -   Nov 2017: [Murder on the Orient Express](https://en.wikipedia.org/wiki/Murder_on_the_Orient_Express_(2017_film))
+    -   Oct 2017: [Marshall](https://en.wikipedia.org/wiki/Marshall_(film))
+    -   Sep 2017: [Home Again]()
+    -   Aug 2017: [Step]()
+    -   Jul 2017: [The Big Sick]()
+    -   Jun 2017: [Book of Henry]()
+    -   May 2017: [Three Generations]()
+    -   Apr 2017: [Going in Style]()
+    -   Mar 2017: [Before I Fall]()
+    -   Feb 2017: [20th Century Women]()
+    -   Jan 2017: [Hidden Figures]()
+
+## 2016
+
+-   Live movie group
+    -   Dec 2016: [Eagle Huntress]()
+    -   Nov 2016: [Moonlight]()
+    -   Oct 2016: [The Girl on the Train]()
+    -   Sep 2016: [Sully]()
+    -   Aug 2016: [The Innocents]()
+    -   Jul 2016: [Secret Life of Pets]()
+    -   Jun 2016: [Popstar. Never Stop Never Stopping]()
+    -   May 2016: [Money Monster]()
+    -   Apr 2016: [Eye in the Sky]()
+    -   Mar 2016: [Whiskey, Tango, Foxtrot]()
+    -   Feb 2016: [45 Years]()
+    -   Jan 2016: [Daddy’s Home]()
+
+## 2015
+
+-   Live movie group
+    -   Dec 2015: [In the Heart of the Sea]()
+    -   Nov 2015: [Love the Coopers]()
+    -   Oct 2015: [The Martian]()
+    -   Sep 2015: [A Walk in the Woods]()
+    -   Aug 2015: [Ricki and the Flash]()
+    -   Jul 2015: [I’ll See You in My Dreams]()
+    -   Jun 2015: [Love & Mercy]()
+    -   May 2015: [Clouds of Sils Maria]()
+    -   Apr 2015: [While We’re Young]()
+    -   Mar 2015: [Second Best Exotic Marigold Hotel]()
+    -   Feb 2015: [The Last Five Years]()
+    -   Jan 2015: [Selma]()
+
+## 2014
+
+-   Live movie group
+    -   Dec 2014: [Exodus. Gods and Kings]()
+    -   Nov 2014: [Birdman]()
+    -   Oct 2014: [Gone Girl]()
+    -   Sep 2014: [The Drop]()
+    -   Aug 2014: [The Hundred Foot Journey]()
+    -   Jul 2014: [Begin Again]()
+    -   Jun 2014: [The Fault in Our Stars]()
+    -   May 2014: [Mom’s Night Out]()
+    -   Apr 2014: [Draft Day]()
+    -   Mar 2014: [Tim’s Vermeer]()
+    -   Feb 2014: [The Monuments Men]()
+    -   Jan 2014: [Her]()
+
+## 2013
+
+-   Live movie group
+    -   Dec 2013: [Saving Mr. Banks]()
+    -   Nov 2013: [Twelve Years a Slave]()
+    -   Oct 2013: [Captain Phillips]()
+    -   Sep 2013: [The Family]()
+    -   Aug 2013: [We’re the Millers]()
+    -   Jul 2013: [Fill the Void]()
+    -   Jun 2013: [The Internship]()
+    -   May 2013: [The Great Gatsby]()
+    -   Apr 2013: [42]()
+    -   Mar 2013: [Emperor]()
+    -   Feb 2013: [Identity Thief]()
+    -   Jan 2013: [Zero Dark Thirty]()
+
+## 2012
+
+-   Live movie group
+    -   Dec 2012: Cancelled due to snow
+    -   Nov 2012: [Flight]()
+    -   Oct 2012: [Frankenweenie]()/[Argo]()
+    -   Sep 2012: [Arbitrage]()
+    -   Aug 2012: [Hope Springs]()
+    -   Jul 2012: [To Rome With Love]()
+    -   Jun 2012: [Peace, Love & Misunderstanding]()
+    -   May 2012: [The Best Excellent Marigold Hotel]()
+    -   Apr 2012: [The Kid With a Bike]()
+    -   Mar 2012: [A Separation]()
+    -   Feb 2012: [Albert Nobbs]()
+    -   Jan 2012: [Tinker, Tailor, Soldier, Spy]()
+
+## 2011
+
+-   Live movie group
+    -   Dec 2011: [New Year’s Eve]()/[Hugo]()
+    -   Nov 2011: [J. Edgar]()
+    -   Oct 2011: [Ides of March]()
+    -   Sep 2011: [Contagion]()
+    -   Aug 2011: [The Help]()
+    -   Jul 2011: [The Tree of Life]()
+    -   Jun 2011: [Super 8]()
+    -   May 2011: [Everything Must Go]()
+    -   Apr 2011: [The Lincoln Lawyer]()
+    -   Mar 2011: [The Adjustment Bureau]()
+    -   Feb 2011: [Just Go With It]()
+    -   Jan 2011: [Made in Dagenham]()
+
+## 2010
+
+-   Live movie group
+    -   Dec 2010: [The Tourist]()
+    -   Nov 2010: [Morning Glory]()
+    -   Oct 2010: [Secretariat]()
+    -   Sep 2010: [The American]()
+    -   Aug 2010: [Scott Pilgrim vs. the World]()/[Eat Pray Love]()
+    -   Jul 2010: [Micmacs]()
+    -   Jun 2010: [The Karate Kid (the 2010 remake)]()
+    -   May 2010: [Letters to Juliet/Robin Hood]()
+    -   Apr 2010: [Date Night]()
+    -   Mar 2010: [Alice in Wonderland]()
+    -   Feb 2010: [Percy Jackson & The Olympians. The Lightning Thief]()/[Crazy Heart]()
+    -   Jan 2010: [Leap Year]()
+
+## 2009
+
+-   Live movie group
+    -   Dec 2009: [Invictus]()
+    -   Nov 2009: [Pirate Radio/The Blind Side]()
+    -   Oct 2009: [Whip It]()
+    -   Sep 2009: [My One and Only]()
+    -   Aug 2009: [Julie and Julia]()
+    -   Jul 2009: [Public Enemies]()
+    -   Jun 2009: [My Life in Ruins]()
+    -   May 2009: [Star Trek (the 2009 reboot)]()
+    -   Apr 2009: [State of Play]()
+    -   Mar 2009: [Wendy and Lucy]()
+    -   Feb 2009: [He’s Just Not That Into You]()
+    -   Jan 2009: [Gran Torino]()
+
+## 2008
+
+-   Live movie group
+    -   Dec 2008: [Milk]()
+    -   Nov 2008: [Happy-Go-Lucky]()
+    -   Oct 2008: [Flash of Genius]()
+    -   Sep 2008: [Burn After Reading]()
+    -   Aug 2008: [American Teen]()
+    -   Jul 2008: I'm not sure what film we saw in July.
+    -   Jun 2008: [Jellyfish]()
+    
+There are many other films earlier than this, but I do not have records of them easily available.
 
 Thumbnail image is from [Public Domain Pictures](https://www.publicdomainpictures.net/en/index.php).
+
